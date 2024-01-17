@@ -1,12 +1,12 @@
 
 # ERC20
 
-This is a contract to mint,transfer and burn the token from a MetaMask walllet.
+An ERC-20 (Ethereum Request for Comment 20) contract is a standard for fungible tokens on the Ethereum blockchain. It defines a set of rules and functions that enable the creation and management of tokens, facilitating seamless compatibility and interaction with various decentralized applications and exchanges.
 
 
 ## Description
 
-This is a Solidity smart contract for creating a custom ERC20 token on the Ethereum blockchain. The token is called "MyToken" and has the symbol "MRK". The contract allows the owner to mint new tokens and assign them to a specific address, transfer tokens between addresses, and burn tokens. The contract uses the OpenZeppelin ERC20 implementation for security.
+This is a Solidity smart contract for creating a custom ERC20 token on the Ethereum blockchain. The token is called "Madan" and has the symbol "MAD". The contract allows the owner to mint new tokens and assign them to a specific address, transfer tokens between addresses, and burn tokens. The contract uses the OpenZeppelin ERC20 implementation for security.
  
 
 ## Requirements
